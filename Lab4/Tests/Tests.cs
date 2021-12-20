@@ -3,6 +3,7 @@ using NUnit.Framework;
 
 namespace Lab4.Tests
 {
+
     public class Tests
     {
         [TestCase(10)]
@@ -20,4 +21,5 @@ namespace Lab4.Tests
         "Метод возвращает исключение на указных параметрах");
     }
 }
+
 
